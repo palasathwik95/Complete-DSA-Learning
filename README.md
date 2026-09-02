@@ -44,8 +44,25 @@ I will continue updating this repository daily and track my progress throughout 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0118-pascals-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
