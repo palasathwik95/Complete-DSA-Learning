@@ -37,3 +37,15 @@ I will continue updating this repository daily and track my progress throughout 
 
 ### ⭐ If you're also practicing DSA, feel free to follow along!
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0118-pascals-triangle) |
+<!---LeetCode Topics End-->
