@@ -1,2 +1,39 @@
-# Complete-DSA-Learning
-A daily LeetCode journey focused on improving Data Structures &amp; Algorithms, problem-solving skills, and coding consistency. Each day includes a new problem, solution, and explanation — building stronger programming fundamentals one problem at a time.
+# 🚀 Daily LeetCode Challenge
+
+Welcome to my **Daily LeetCode Challenge** repository!
+
+This repository documents my journey of solving **LeetCode problems every day** to strengthen my knowledge of **Data Structures & Algorithms (DSA)** and improve my problem-solving skills.
+
+## 🎯 Goals
+
+* Solve LeetCode problems consistently every day
+* Strengthen Data Structures & Algorithms
+* Improve logical and problem-solving skills
+* Learn different approaches to solving problems
+* Write clean and optimized code
+* Prepare for technical interviews and competitive programming
+
+## 📅 Daily Progress
+
+Each problem will include:
+
+* 🔹 Problem statement
+* 🔹 Approach / Intuition
+* 🔹 Algorithm
+* 🔹 Solution
+* 🔹 Time Complexity
+* 🔹 Space Complexity
+
+## 🛠️ Language
+
+Primary language: **C++**
+
+## 📊 Progress
+
+> Consistency over perfection.
+> **One problem a day. One step closer to becoming a better problem solver. 🚀**
+
+I will continue updating this repository daily and track my progress throughout the journey.
+
+### ⭐ If you're also practicing DSA, feel free to follow along!
+
