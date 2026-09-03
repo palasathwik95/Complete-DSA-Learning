@@ -65,4 +65,16 @@ I will continue updating this repository daily and track my progress throughout 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1903-largest-odd-number-in-string) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
