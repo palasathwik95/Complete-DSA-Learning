@@ -43,6 +43,7 @@ I will continue updating this repository daily and track my progress throughout 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
@@ -56,6 +57,7 @@ I will continue updating this repository daily and track my progress throughout 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -77,4 +79,8 @@ I will continue updating this repository daily and track my progress throughout 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1903-largest-odd-number-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
