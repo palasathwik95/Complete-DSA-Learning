@@ -46,6 +46,7 @@ I will continue updating this repository daily and track my progress throughout 
 | [0015-3sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ I will continue updating this repository daily and track my progress throughout 
 | [0015-3sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -88,6 +90,7 @@ I will continue updating this repository daily and track my progress throughout 
 | ------- |
 | [0015-3sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
