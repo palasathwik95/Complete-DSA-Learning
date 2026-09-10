@@ -48,12 +48,14 @@ I will continue updating this repository daily and track my progress throughout 
 | [0056-merge-intervals](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
