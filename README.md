@@ -45,6 +45,7 @@ I will continue updating this repository daily and track my progress throughout 
 | ------- |
 | [0015-3sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0056-merge-intervals) |
@@ -104,6 +105,7 @@ I will continue updating this repository daily and track my progress throughout 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0493-reverse-pairs) |
