@@ -51,6 +51,7 @@ I will continue updating this repository daily and track my progress throughout 
 | [0152-maximum-product-subarray](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@ I will continue updating this repository daily and track my progress throughout 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
