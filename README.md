@@ -56,6 +56,7 @@ I will continue updating this repository daily and track my progress throughout 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ I will continue updating this repository daily and track my progress throughout 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
