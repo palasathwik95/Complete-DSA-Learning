@@ -92,6 +92,7 @@ I will continue updating this repository daily and track my progress throughout 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1903-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Greedy
 |  |
 | ------- |
