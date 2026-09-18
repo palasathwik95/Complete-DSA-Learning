@@ -59,6 +59,7 @@ I will continue updating this repository daily and track my progress throughout 
 | [0493-reverse-pairs](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@ I will continue updating this repository daily and track my progress throughout 
 | [0493-reverse-pairs](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
