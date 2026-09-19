@@ -63,6 +63,7 @@ I will continue updating this repository daily and track my progress throughout 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1539-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ I will continue updating this repository daily and track my progress throughout 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
