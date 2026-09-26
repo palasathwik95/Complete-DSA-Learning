@@ -56,6 +56,7 @@ I will continue updating this repository daily and track my progress throughout 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0540-single-element-in-a-sorted-array) |
@@ -111,6 +112,7 @@ I will continue updating this repository daily and track my progress throughout 
 | [0015-3sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0283-move-zeroes) |
 ## Quicksort
 |  |
 | ------- |
