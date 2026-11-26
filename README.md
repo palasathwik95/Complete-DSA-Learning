@@ -107,6 +107,7 @@ I will continue updating this repository daily and track my progress throughout 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1903-largest-odd-number-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Greedy
@@ -182,4 +183,12 @@ I will continue updating this repository daily and track my progress throughout 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/palasathwik95/Complete-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
